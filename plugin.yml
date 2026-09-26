@@ -1,0 +1,7 @@
+name: DynmapColorSync
+main: org.mineserver.dynmapcolorsync.DynmapColorSyncPlugin
+version: "1.0"
+author: custom
+api-version: 1.13
+depend: [dynmap, Towny]
+softdepend: [Dynmap-Towny]
